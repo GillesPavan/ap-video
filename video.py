@@ -1,3 +1,6 @@
+#Inspired by :
+#https://www.pyimagesearch.com/
+
 # import the necessary packages
 from imutils.video import FPS
 import numpy as np
